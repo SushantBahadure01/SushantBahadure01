@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Sushant and I'm a Nagpur !</h2>
+<h2 align="left">Hi 👋! My name is Sushant and I'm a From Nagpur !</h2>
 
 ###
 
