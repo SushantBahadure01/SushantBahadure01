@@ -76,6 +76,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://profile-readme-generator.com/assets/snake.svg"  />
+<img align="center" height="250" src="https://profile-readme-generator.com/assets/snake.svg"  />
 
 ###
