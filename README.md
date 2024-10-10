@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Sushant and I'm a From Nagpur !</h2>
+<h2 align="left">Coding like chess : planning ahead ⏩, thinking strategically 🎯, and making every move count 📈.</h2>
 
 ###
 
