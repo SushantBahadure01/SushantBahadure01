@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Coding like chess : planning ahead ⏩, thinking strategically 🎯, and making every move count 📈.</h2>
+<h2 align="left">Coding like chess ♟ planning ahead ⏩, thinking strategically 🎯, and making every move count 📈.</h2>
 
 ###
 
